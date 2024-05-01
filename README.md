@@ -8,4 +8,4 @@ How do we open this file:
 3. Enjoy!!
 
 ---
-PS: if you are going to run this code, make sure that your client server is changed to your IP Address. Just don't mind the Server IP Address :)
+PS: if you are going to run this code, make sure that your client server is changed to your IP Address, no need to change the Server IP Address :)
